@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gunicorn
+python-multipart
+Pillow
+ultralytics
+torch
+torchvision
+torchaudio
